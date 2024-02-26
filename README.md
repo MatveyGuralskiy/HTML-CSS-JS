@@ -11,6 +11,8 @@ Ready-to-Use Websites: Discover fully functional website examples covering a ran
  |-- /Basic_Website
 
  |-- /Button_Website
+
+ |-- / SimpleTest_Website
  
  |-- README.md
 ### 📝 Examples
