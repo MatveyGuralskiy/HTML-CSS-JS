@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simple Test</title>
+    <link rel="stylesheet" type="text/css" href="CSS/style_index.css">
+</head>
+<body>
+    <div class="main">
+        <br>
+        <h1>Simple Test Website</h1>
+        <nav class="nav-buttons">
+            <button class="login" onclick="openModal()">Login</button>
+            <a href="signup.html"><button class="signup">Sign Up</button></a>
+        </nav>
+        <p>It's a Website based on HTML and CSS</p>
+        <p>Give me a star in GitHub if you like this Website</p>
+        <img class="gif" src="Images/GIF.gif" alt="Simpson brakes everything">
+        <br>
+        <br>
+        <button class="test"> <a href="test.html">Take a Simple test</a></button>
+        <br>
+        <br>
+        <button class="profile">
+            <a href="https://github.com/MatveyGuralskiy">@MatveyGuralskiy</a>
+        </button>
+    </div>
+    <div id="myModal" class="modal">
+        <div class="modal-content">
+            <span class="close" onclick="closeModal()">&times;</span>
+            <h2 class="window">Simple Test</h2>
+            <form>
+                <label for="username">Login:</label>
+                <input type="text" id="username" placeholder="Enter your username" name="username"><br>
+                <br>
+                <label for="password">Password:</label>
+                <input type="password" id="password" placeholder="Enter your password" name="password">
+                <br>
+                <br><input type="submit" value="Submit"><br>
+            </form>
+        </div>
+    </div>
+
+    <script>
+        function openModal() {
+            var modal = document.getElementById("myModal");
+            modal.style.display = "block";
+        }
+
+
+        function closeModal() {
+            var modal = document.getElementById("myModal");
+            modal.style.display = "none";
+        }
+    </script>
+</body>
+</html>
