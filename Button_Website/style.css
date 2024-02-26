@@ -1,0 +1,30 @@
+/* Style CSS file */
+
+img {
+    width: 1080px;
+    border-radius: 20px;      
+}
+
+.title {
+    color:brown;
+    font-size: 64px;
+    font-family: sans-serif
+}
+
+p{
+    font-size: 20px;
+    font-family: sans-serif
+}
+
+.buttons button {
+    padding: 10px 20px;
+    margin: 0 10px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+body {
+    background-image: url("Background/background.jpg");
+    background-size: cover;
+    background-position: center;
+}
