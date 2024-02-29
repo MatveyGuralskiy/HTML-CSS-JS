@@ -1,0 +1,59 @@
+/*  Styles file CSS for homepage  */
+body {
+    background-color: rgb(139, 236, 176);
+}
+
+h1 {
+    font-size: 60px;
+    font-family: monospace;
+    font-style: italic;
+    text-align: center;
+}
+
+img {
+    height: 250px;
+    position: relative;
+    left: 700px;
+    top: 50px;
+}
+
+p {
+    font-size: 25px;
+    font-family: monospace;
+    font-style: italic;
+    text-align: center;
+}
+
+form {
+    text-align: center;
+}
+
+#review {
+    font-family: monospace;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#review:hover, #submit:hover {
+    background-color: cadetblue;
+}
+
+#submit {
+    border-radius: 10px 0 10px 0;
+    cursor: pointer;
+    font-size: 20px;
+    font-family: monospace;
+    color: rgba(44, 37, 37, 0.562);
+}
+
+#rank {
+    font-family: monospace;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.fire {
+    font-family: monospace;
+    font-size: 15px;
+    color: rgb(100, 0, 0);
+}
