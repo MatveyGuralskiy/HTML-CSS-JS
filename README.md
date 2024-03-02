@@ -13,6 +13,8 @@ Ready-to-Use Websites: Discover fully functional website examples covering a ran
  |-- /Border_Website
 
  |-- /Button_Website
+
+ |-- /Flex-Website
  
  |-- /SimpleFeatures_Website
  
@@ -27,7 +29,7 @@ Ready-to-Use Websites: Discover fully functional website examples covering a ran
 
 <p><img src="https://github.com/MatveyGuralskiy/HTML-CSS/blob/main/SimpleTest_Website/Screens/Homepage.png?raw=true" style="height:350px; width:700px" /></p>
 
-<p><img src="https://github.com/MatveyGuralskiy/HTML-CSS/blob/main/Basic_Website/Screen/Main_page.png?raw=true" style="height:350px; width:700px" /></p>
+<p><img src="https://github.com/MatveyGuralskiy/HTML-CSS/blob/main/Flex-Website/Screens/Homepage.png?raw=true" style="height:350px; width:700px" /></p>
 
 <p><img src="https://github.com/MatveyGuralskiy/HTML-CSS/blob/main/SimpleFeatures_Website/Screens/Homepage.png?raw=true" style="height:350px; width:700px" /></p>
 
