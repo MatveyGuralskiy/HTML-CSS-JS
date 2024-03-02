@@ -1,0 +1,85 @@
+/* Style CSS file for Homepage */
+body {
+    background-color: coral;
+}
+
+header h1 {
+    font-family: monospace;
+    font-size: 50px;
+    color: beige;
+    text-align: center;
+    background-color: darkcyan;
+    margin: 50px;
+    padding: 40px;
+}
+
+section h2 {
+    font-family: monospace;
+    font-size: 40px;
+    color: beige;
+}
+
+button {
+    font-family: monospace;
+    font-size: 30px;
+    margin: 30px;
+}
+
+button:hover {
+    background-color: darkcyan;
+    cursor: pointer;
+}
+
+.container .item,
+.container .images,
+.container .message {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.container {
+    border: solid;
+    border-color: wheat;
+    border-radius: 20px;
+}
+
+.item1, .item2,
+.item3, .item4,
+.item5 {
+    font-family: monospace;
+    font-size: 30px;
+    padding: 50px;
+}
+
+.item1, .item3,
+.item5 {
+    background-color: darkcyan;
+}
+
+.item2, .item4 {
+    background-color: beige;
+}
+
+.images img{
+    height: 200px;
+    width: 200px;
+    object-fit: cover;
+}
+
+.message p {
+    font-family: monospace;
+    font-size: 20px;
+    color: red;
+}
+
+.message span {
+    text-decoration: line-through;
+    padding: 10px;
+}
+
+.container_button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
