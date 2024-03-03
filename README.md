@@ -1,4 +1,4 @@
-# 🌏 HTML-CSS
+# 🌏 HTML-CSS-JS
 Here, you'll find a curated collection of HTML and CSS files showcasing various web development techniques, design patterns, and ready-to-use website examples. Whether you're a beginner looking to learn the basics or an experienced developer seeking inspiration for your projects, this repository has something for everyone.
 
 Basic Layouts: Explore simple yet effective layouts built with HTML and CSS, perfect for getting started with web development.
