@@ -8,38 +8,26 @@ Advanced Components: Dive into more complex user interface components and design
 Ready-to-Use Websites: Discover fully functional website examples covering a range of topics and styles, including landing pages, portfolios, blogs, and e-commerce sites.
 ### /Repository
 
- |-- /Animation-CSS
+ |-- /CSS-Animation
 
- |-- /Basic_Website
-
- |-- /Border_Website
-
- |-- /Button_Website
-
- |-- /Flex-Website
+ |-- HtmlCSS-Websites
 
  |-- /JavaScript
- 
- |-- /SimpleFeatures_Website
- 
- |-- /SimpleTest_Website
-
- |-- /Z-index_Website
  
  |-- README.md
 ### 📝 Examples
 
-<p><img src="https://github.com/MatveyGuralskiy/HTML-CSS/blob/main/Z-index_Website/Screens/Top_homepage.png?raw=true" style="height:350px; width:700px" /></p>
+<p><img src="https://github.com/MatveyGuralskiy/HTML-CSS-JS/blob/main/HtmlCSS-Websites/Z-index_Website/Screens/Top_homepage.png?raw=true" style="height:350px; width:700px" /></p>
 
-<p><img src="https://github.com/MatveyGuralskiy/HTML-CSS/blob/main/SimpleTest_Website/Screens/Homepage.png?raw=true" style="height:350px; width:700px" /></p>
+<p><img src="https://github.com/MatveyGuralskiy/HTML-CSS-JS/blob/main/HtmlCSS-Websites/SimpleTest_Website/Screens/Homepage.png?raw=true" style="height:350px; width:700px" /></p>
 
-<p><img src="https://github.com/MatveyGuralskiy/HTML-CSS/blob/main/Flex-Website/Screens/Homepage.png?raw=true" style="height:350px; width:700px" /></p>
+<p><img src="https://github.com/MatveyGuralskiy/HTML-CSS-JS/blob/main/HtmlCSS-Websites/Flex-Website/Screens/Homepage.png?raw=true" style="height:350px; width:700px" /></p>
 
-<p><img src="https://github.com/MatveyGuralskiy/HTML-CSS/blob/main/SimpleFeatures_Website/Screens/Homepage.png?raw=true" style="height:350px; width:700px" /></p>
+<p><img src="https://github.com/MatveyGuralskiy/HTML-CSS/blob/main/HtmlCSS-Websites/SimpleFeatures_Website/Screens/Homepage.png?raw=true" style="height:350px; width:700px" /></p>
 
-<p><img src="https://github.com/MatveyGuralskiy/HTML-CSS/blob/main/Border_Website/Screens/homepage.png?raw=true" style="height:700px; width:700px" /></p>
+<p><img src="https://github.com/MatveyGuralskiy/HTML-CSS/blob/main/HtmlCSS-Websites/Border_Website/Screens/homepage.png?raw=true" style="height:700px; width:700px" /></p>
 
-<p><img src="https://github.com/MatveyGuralskiy/HTML-CSS/blob/main/Button_Website/Screens/Positive_feedback.png?raw=true" style="height:350px; width:700px" /></p>
+<p><img src="https://github.com/MatveyGuralskiy/HTML-CSS/blob/main/HtmlCSS-Websites/Button_Website/Screens/Positive_feedback.png?raw=true" style="height:350px; width:700px" /></p>
 
 <p><img src="https://github.com/MatveyGuralskiy/HTML-CSS-JS/blob/main/JavaScript/Screens/Temperature-Converter/Homepage.png?raw=true" style="height:400px; width:700px" /></p>
 
